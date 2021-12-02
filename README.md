@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @KennyLoRI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm a data scientist focused on understanding and predicting human behavior or human characteristics.
+- 🌱 I’m currently learning social network analysis as part of my research activities
+- 📫 How to reach me: stypps@gmail.com
 
-<!---
-KennyLoRI/KennyLoRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
