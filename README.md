@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KennyLoRI
-- 👀 I'm a data scientist focused on understanding and predicting human behavior or human characteristics.
-- 🌱 I’m currently learning social network analysis as part of my research activities
+- 👀 I'm studying applied mathematics and computerscience to build performant algorithms. T
+- 🚀 Gathering as much experience in coding as I can to make use of the beautiful math I learn at university. 
 
 
