@@ -2,7 +2,7 @@
 # Kenneth Styppa | AI Research & Engineering
 
 **Final Year MSc Student in Computer Science and Applied Mathematics @ Heidelberg University**
-**Exchange @ National University of Singapore and UC Berkeley**  
+**Exchanges @ the National University of Singapore and UC Berkeley**  
 **Prev. Work Experience @ QuantumBlack (McKinsey), German Aerospace Center | AI, NLP & Optimization**  
 **GPA: 1.1**
 
@@ -19,7 +19,7 @@ I like building things. Especially if it involves GenAI and cool co-workers :)
 🔬 **Previously at:**  
 - **QuantumBlack, McKinsey** – Developed a **multivariate demand forecasting model** yielding **7-figure business value**.   
 - **German Aerospace Center** – Consulted on **causal inference & LLM overlaps** & with published research.
-- **BMW Group** – Used Pyspark to optimizer BMWs Supply Chain in times or gas supply shortages.
+- **BMW Group** – Used Pyspark to optimize BMW's supply chain in times of gas supply shortages.
 
 ✍️ **At the German Aerospace Center I also wrote about Causality:** [Medium Blog](https://medium.com/causality-in-data-science)  
 
