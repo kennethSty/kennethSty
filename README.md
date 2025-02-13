@@ -27,8 +27,10 @@ I like building things. Especially if it involves GenAI and cool co-workers :)
 
 ## Some Projects  
 
-- **PubMed RAG** – Trained on **100k+ scientific abstracts**, reaching **GPT-4-level performance** locally. [[GitHub](https://github.com/KennyLoRI/pubMedNLP)]  
-- **Knowledge Graphs with LLMs** – Automated Wikipedia KG construction using open-source LLMs. [[GitHub](https://github.com/KennyLoRI/knowledgeGraph)]  
+- **PubMed RAG** – Trained on **100k+ scientific abstracts**, reaching **GPT-4-level performance** locally. [[GitHub](https://github.com/KennyLoRI/pubMedNLP)]
+- **AI Mental Health Support** - RAG-based mental health support with fine-tuned suicide risk prediction for high-risk interventions [GitHub](https://github.com/kennethSty/mentalAI)
+- **Knowledge Graphs with LLMs** – Automated Wikipedia KG construction using open-source LLMs. [[GitHub](https://github.com/KennyLoRI/knowledgeGraph)]
+- **Rebuilding GPT2 from Scratch** - Rebuilding, pertaining and fine-tuning GPT2 in Pytorch from scratch [Github](https://github.com/kennethSty/Playground)
 - **ETH Transaction Graph ML** - Deep learning on **79M+ Ethereum transactions** [[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003354)]  
 
 🔗 **More repos →** [GitHub](https://github.com/kennethSty)  
@@ -36,9 +38,9 @@ I like building things. Especially if it involves GenAI and cool co-workers :)
 ---
 
 ## 🎓 Education  
-- **MSc Scientific Computing** – Heidelberg University & National University of Singapore (GPA: 1.0)  
-- **Exchange Semester** – UC Berkeley (School of Information, GPA: 1.1, top 3%)  
-- **BSc – Zeppelin University & Heidelberg University**  
+- **MSc Scientific Computing** – National University of Singapore & Heidelberg University (GPA: 1.1)  
+- **BA & Exchange Semester** – UC Berkeley (School of Information) & Zeppelin University (GPA: 1.1)
+- **Hans Multscher High School** - Physics, Mathematics, Economics (GPA: 1.1)
 
 🏆 **Awards & Fellowships:**  
 - **DUO Singapore Fellowship for NUS** 
