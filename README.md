@@ -4,7 +4,7 @@
 **Final Year MSc Student in Computer Science and Applied Mathematics @ Heidelberg University**
 **Exchanges @ the National University of Singapore and UC Berkeley**  
 **Prev. Work Experience @ QuantumBlack (McKinsey), German Aerospace Center | AI, NLP & Optimization**  
-**GPA: 1.1**
+**GPA: 1.0**
 
 ---
 
