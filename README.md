@@ -55,6 +55,11 @@ I like building things. Especially if it involves GenAI and cool co-workers :)
 
 ---
 
+## Hobbies 
+- I like to do UX (see [here](https://drive.google.com/drive/folders/1NEDUxIFUX_vH8s3rGQLdd-58Xe62Zj_3?usp=sharing))
+- Boxing
+- Reading fantasy, Gabriel Allon novels or psychology related non-fiction
+
 ## ⚡ Get in Touch  
 💼 **LinkedIn:** [linkedin.com/in/kennethstyppa](https://www.linkedin.com/in/kennethstyppa)  
 
