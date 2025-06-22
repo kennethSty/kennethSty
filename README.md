@@ -13,9 +13,10 @@
 I like building things. Especially if it involves GenAI and nice co-workers :) 
 
 📌 **Currently exploring:**  
-- High-performance **RAG architectures**, **Generative Modelling** and **Model Finetuning** 
-- **Sparse retrieval** & **knowledge graphs**  
-- **Causal ML & Probabilistic Graph Models**  
+- Specialized LLMs 
+- Instruction Tuning
+- Cuda Programming
+- GPU Scheduling Algorithm Engineering 
 
 🔬 **Previously at:** 
 - **Fraunhofer IAIS** – Developing german medical foundation models.
