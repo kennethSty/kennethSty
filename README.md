@@ -4,20 +4,21 @@
 **Final Year MSc Student in Computer Science and Applied Mathematics @ Heidelberg University**
 
 **Exchanges @ the National University of Singapore and UC Berkeley**  
-**Prev. Work Experience @ QuantumBlack (McKinsey), German Aerospace Center | AI, NLP & Optimization**  
+**Prev. Work Experience @ QuantumBlack (McKinsey), Fraunhofer IAIS, German Aerospace Center | AI, NLP & Optimization**  
 **GPA: 1.0**
 
 ---
 
 ## 👋 About Me  
-I like building things. Especially if it involves GenAI and cool co-workers :) 
+I like building things. Especially if it involves GenAI and nice co-workers :) 
 
 📌 **Currently exploring:**  
 - High-performance **RAG architectures**, **Generative Modelling** and **Model Finetuning** 
 - **Sparse retrieval** & **knowledge graphs**  
 - **Causal ML & Probabilistic Graph Models**  
 
-🔬 **Previously at:**  
+🔬 **Previously at:** 
+- **Fraunhofer IAIS** – Developing german medical foundation models.
 - **QuantumBlack, McKinsey** – Developed a **multivariate demand forecasting model** yielding **7-figure business value**.   
 - **German Aerospace Center** – Consulted on **causal inference & LLM overlaps** & with published research.
 - **BMW Group** – Used Pyspark to optimize BMW's supply chain in times of gas supply shortages.
@@ -27,11 +28,11 @@ I like building things. Especially if it involves GenAI and cool co-workers :)
 ---
 
 ## Some Projects  
-
-- **PubMed RAG** – Trained on **100k+ scientific abstracts**, reaching **GPT-4-level performance** locally. [[GitHub](https://github.com/KennyLoRI/pubMedNLP)]
 - **AI Mental Health Support** - RAG-based mental health support with fine-tuned suicide risk prediction for high-risk interventions [GitHub](https://github.com/kennethSty/mentalAI)
-- **Knowledge Graphs with LLMs** – Automated Wikipedia KG construction using open-source LLMs. [[GitHub](https://github.com/KennyLoRI/knowledgeGraph)]
-- **Rebuilding GPT2 from Scratch** - Rebuilding, pertaining and fine-tuning GPT2 in Pytorch from scratch [Github](https://github.com/kennethSty/Playground)
+- **Scheduling Algorithms for reducing GPU Fragmentation** - Implementing FGD and FirstFit for scheduling Kubernetes pods on nodes [Github](https://github.com/kennethSty/gpu_scheduling)
+- **PubMed RAG** – Trained on **100k+ scientific abstracts**, reaching **GPT-4-level performance** locally. [[GitHub](https://github.com/KennyLoRI/pubMedNLP)]
+- **Knowledge Graphs with LLMs** – Automated Wikipedia KG construction using open-source LLMs. [GitHub](https://github.com/KennyLoRI/knowledgeGraph)]
+- **Cuda Torch Extensions ** - Experimenting with custom cuda extensions for Pytorch [Github](https://github.com/kennethSty/custom_cuda_extensions)
 - **ETH Transaction Graph ML** - Deep learning on **79M+ Ethereum transactions** [[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003354)]  
 
 🔗 **More repos →** [GitHub](https://github.com/kennethSty)  
@@ -58,7 +59,7 @@ I like building things. Especially if it involves GenAI and cool co-workers :)
 ## Hobbies 
 - I like to do UX (see [here](https://drive.google.com/drive/folders/1NEDUxIFUX_vH8s3rGQLdd-58Xe62Zj_3?usp=sharing))
 - Boxing
-- Reading fantasy, Gabriel Allon novels or psychology related non-fiction
+- Reading fantasy, Gabriel Allon novels or psychology-related non-fiction
 
 ## ⚡ Get in Touch  
 💼 **LinkedIn:** [linkedin.com/in/kennethstyppa](https://www.linkedin.com/in/kennethstyppa)  
