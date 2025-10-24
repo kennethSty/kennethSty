@@ -10,7 +10,7 @@
 ---
 
 ## 👋 About Me  
-I like building things. Especially if it involves GenAI and nice co-workers :) 
+I like building things. Especially if it involves medical AI and nice co-workers :) 
 
 📌 **Currently exploring:**  
 - Specialized LLMs 
