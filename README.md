@@ -2,6 +2,7 @@
 # Kenneth Styppa | AI Research & Engineering
 
 **Final Year MSc Student in Computer Science and Applied Mathematics @ Heidelberg University**
+**Thesis Student at the medical AI Lab of ETH Zurich**
 
 **Exchanges @ the National University of Singapore and UC Berkeley**  
 **Prev. Work Experience @ QuantumBlack (McKinsey), Fraunhofer IAIS, German Aerospace Center | AI, NLP & Optimization**  
@@ -29,6 +30,7 @@ I like building things. Especially if it involves medical AI and nice co-workers
 ---
 
 ## Some Projects  
+- **Multi-agent differential diagnosis** - MIRIAD-based extention of the MeDDxAgent framework [GitHub](https://github.com/kennethSty/MIRIAD/tree/main/meddxagent)
 - **AI Mental Health Support** - RAG-based mental health support with fine-tuned suicide risk prediction for high-risk interventions [GitHub](https://github.com/kennethSty/mentalAI)
 - **Scheduling Algorithms for reducing GPU Fragmentation** - Implementing FGD and FirstFit for scheduling Kubernetes pods on nodes [Github](https://github.com/kennethSty/gpu_scheduling)
 - **PubMed RAG** – Trained on **100k+ scientific abstracts**, reaching **GPT-4-level performance** locally. [[GitHub](https://github.com/KennyLoRI/pubMedNLP)]
