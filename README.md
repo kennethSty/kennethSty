@@ -1,70 +1,29 @@
+# Kenneth Styppa
 
-# Kenneth Styppa | AI Research & Engineering
+I am a first-year PhD candidate in the [Medical AI Lab](https://bsse.ethz.ch/mail) at ETH Zurich, supervised by [Michael Moor](https://michaelmoor.me/). My interests are AI reasoning and safety, with a focus on applications in medicine.
 
-**Final Year MSc Student in Computer Science and Applied Mathematics @ Heidelberg University**
-**Thesis Student at the medical AI Lab of ETH Zurich**
+Previously, I studied at the National University of Singapore, Heidelberg University, Zeppelin University, and UC Berkeley. I have worked at ETH Zurich, QuantumBlack McKinsey, Fraunhofer IAIS, and the German Aerospace Center, among others.
 
-**Exchanges @ the National University of Singapore and UC Berkeley**  
-**Prev. Work Experience @ QuantumBlack (McKinsey), Fraunhofer IAIS, German Aerospace Center | AI, NLP & Optimization**  
-**GPA: 1.0**
+## Research highlights
 
----
+- **[Process Reward Agents](https://process-reward-agents.github.io/)** — A test-time method for steering knowledge-intensive reasoning with domain-grounded, step-wise rewards. Accepted to **ICML 2026**.
+- **[RadAgent](https://rad-agent.github.io/)** — A tool-using AI agent for stepwise and interpretable chest CT reporting. Available as a preprint on **arXiv**.
 
-## 👋 About Me  
-I like building things. Especially if it involves medical AI and nice co-workers :) 
+## Selected projects
 
-📌 **Currently exploring:**  
-- Specialized LLMs 
-- Instruction Tuning
-- Cuda Programming
-- GPU Scheduling Algorithm Engineering 
+- **[Multi-agent differential diagnosis](https://github.com/kennethSty/MIRIAD/tree/main/meddxagent)** — A MIRIAD-based extension of the MeDDxAgent framework.
+- **[GPU scheduling](https://github.com/kennethSty/gpu_scheduling)** — Scheduling algorithms for reducing GPU fragmentation in Kubernetes clusters.
+- **[Custom CUDA extensions](https://github.com/kennethSty/custom_cuda_extensions)** — Experiments with custom CUDA extensions for PyTorch.
+- **[AI mental health support](https://github.com/kennethSty/mentalAI)** — Retrieval-augmented mental health support with suicide-risk prediction for high-risk interventions.
+- **[Ethereum transaction graph ML](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003354)** — Deep learning on more than 79 million Ethereum transactions.
 
-🔬 **Previously at:** 
-- **Fraunhofer IAIS** – Developing german medical foundation models.
-- **QuantumBlack, McKinsey** – Developed a **multivariate demand forecasting model** yielding **7-figure business value**.   
-- **German Aerospace Center** – Consulted on **causal inference & LLM overlaps** & with published research.
-- **BMW Group** – Used Pyspark to optimize BMW's supply chain in times of gas supply shortages.
+## Background
 
-✍️ **At the German Aerospace Center I also wrote about Causality:** [Medium Blog](https://medium.com/causality-in-data-science)  
+- **Master's degree, Applied Mathematics and Computer Science** — Heidelberg University, graduated with distinction
+- **Exchange** — National University of Singapore
+- **Bachelor's degree** — Zeppelin University
+- **Exchange** — UC Berkeley School of Information
 
----
+Sometimes I make art too.
 
-## Some Projects  
-- **Multi-agent differential diagnosis** - MIRIAD-based extention of the MeDDxAgent framework [GitHub](https://github.com/kennethSty/MIRIAD/tree/main/meddxagent)
-- **AI Mental Health Support** - RAG-based mental health support with fine-tuned suicide risk prediction for high-risk interventions [GitHub](https://github.com/kennethSty/mentalAI)
-- **Scheduling Algorithms for reducing GPU Fragmentation** - Implementing FGD and FirstFit for scheduling Kubernetes pods on nodes [Github](https://github.com/kennethSty/gpu_scheduling)
-- **PubMed RAG** – Trained on **100k+ scientific abstracts**, reaching **GPT-4-level performance** locally. [[GitHub](https://github.com/KennyLoRI/pubMedNLP)]
-- **Knowledge Graphs with LLMs** – Automated Wikipedia KG construction using open-source LLMs. [GitHub](https://github.com/KennyLoRI/knowledgeGraph)]
-- **Cuda Torch Extensions ** - Experimenting with custom cuda extensions for Pytorch [Github](https://github.com/kennethSty/custom_cuda_extensions)
-- **ETH Transaction Graph ML** - Deep learning on **79M+ Ethereum transactions** [[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003354)]  
-
-🔗 **More repos →** [GitHub](https://github.com/kennethSty)  
-
----
-
-## 🎓 Education  
-- **MSc Scientific Computing** – National University of Singapore & Heidelberg University (GPA: 1.1)  
-- **BA & Exchange Semester** – UC Berkeley (School of Information) & Zeppelin University (GPA: 1.1)
-- **Hans Multscher High School** - Physics, Mathematics, Economics (GPA: 1.1)
-
-🏆 **Awards & Fellowships:**  
-- **DUO Singapore Fellowship for NUS** 
-- **Baden Württemberg Scholarship** 
-- **German Scholarship** 
-- **Entrepreneur Scholarship** 
-- **Lena Weiss Scholarship**
-- **Gips Schüle Scholarship for UC Berkeley** 
-- **Best Thesis Award** 
-- **1st Prize in a Startup Competition @ UC Berkeley** 
-
----
-
-## Hobbies 
-- I like to do UX (see [here](https://drive.google.com/drive/folders/1NEDUxIFUX_vH8s3rGQLdd-58Xe62Zj_3?usp=sharing))
-- Boxing
-- Reading fantasy, Gabriel Allon novels or psychology-related non-fiction
-
-## ⚡ Get in Touch  
-💼 **LinkedIn:** [linkedin.com/in/kennethstyppa](https://www.linkedin.com/in/kennethstyppa)  
-
-Let’s connect & build! 🚀
+[Personal website](https://kennethSty.github.io) · [LinkedIn](https://www.linkedin.com/in/kenneth-styppa-546779159/) · [Causality in Data Science](https://medium.com/causality-in-data-science)
