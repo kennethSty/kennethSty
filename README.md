@@ -1,6 +1,6 @@
 # Kenneth Styppa
 
-[kennethSty.github.io](https://kennethSty.github.io)
+Visit my [personal website](https://kennethSty.github.io).
 
 I am a first-year PhD candidate in the [Medical AI Lab](https://bsse.ethz.ch/mail) at ETH Zurich, supervised by [Michael Moor](https://michaelmoor.me/). My interests are AI reasoning and safety, with a focus on applications in medicine.
 
