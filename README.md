@@ -1,5 +1,7 @@
 # Kenneth Styppa
 
+[kennethSty.github.io](https://kennethSty.github.io)
+
 I am a first-year PhD candidate in the [Medical AI Lab](https://bsse.ethz.ch/mail) at ETH Zurich, supervised by [Michael Moor](https://michaelmoor.me/). My interests are AI reasoning and safety, with a focus on applications in medicine.
 
 Previously, I studied at the National University of Singapore, Heidelberg University, Zeppelin University, and UC Berkeley. I have worked at ETH Zurich, QuantumBlack McKinsey, Fraunhofer IAIS, and the German Aerospace Center, among others.
@@ -26,4 +28,4 @@ Previously, I studied at the National University of Singapore, Heidelberg Univer
 
 Sometimes I make art too.
 
-[Personal website](https://kennethSty.github.io) · [LinkedIn](https://www.linkedin.com/in/kenneth-styppa-546779159/) · [Causality in Data Science](https://medium.com/causality-in-data-science)
+[LinkedIn](https://www.linkedin.com/in/kenneth-styppa-546779159/) · [Causality in Data Science](https://medium.com/causality-in-data-science)
